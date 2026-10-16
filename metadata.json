@@ -1,0 +1,6 @@
+{
+  "name": "지구는 지금 어디서 흔들릴까?",
+  "description": "중학교 과학 수업용 실시간 지진 및 판 구조론 탐구 인터랙티브 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

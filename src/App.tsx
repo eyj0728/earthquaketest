@@ -1100,7 +1100,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-2.5 flex-wrap">
                 <h1 className="text-xl sm:text-2xl font-bold text-[#006241] tracking-[-0.01em]">
-                  지구는 지금 어디서 흔들릴까?
+                  지구의 지진 알아보기
                 </h1>
                 <span className="text-[11px] font-semibold px-2.5 py-0.5 rounded-full bg-[#d4e9e2] text-[#006241]">
                   중학교 과학 탐구
@@ -2451,7 +2451,7 @@ export default function App() {
             contributors
           </p>
           <p className="text-[rgba(255,255,255,0.50)] text-[11px]">
-            ‘지구는 지금 어디서 흔들릴까?’ - 중학교 과학 수업용 인터랙티브 정적 웹 애플리케이션
+            ‘지구의 지진 알아보기’ - 중학교 과학 수업용 인터랙티브 정적 웹 애플리케이션
           </p>
         </div>
       </footer>

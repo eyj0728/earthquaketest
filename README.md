@@ -1,4 +1,4 @@
-# 지구는 지금 어디서 흔들릴까? (Where is the Earth Shaking Right Now?)
+# 지구의 지진 알아보기 (Learning About Earth's Earthquakes)
 
 중학교 과학 수업(지권의 변화 및 판 구조론 단원)을 위한 실시간 전 세계 지진 및 판 경계 인터랙티브 탐구 웹 애플리케이션입니다.  
 React와 Vite 기반의 순수 정적 웹앱(Static Web App)으로 제작되어, 별도의 백엔드 서버나 데이터베이스 없이 브라우저 환경에서 동작하며 GitHub 저장소 연동 및 Netlify를 통해 간편하게 배포할 수 있습니다.
